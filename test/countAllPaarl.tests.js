@@ -7,9 +7,4 @@ describe('the countAllPaarl function' , function(){
 
     });
 
-    it('should count registration numbers from Paarl.' , function(){
-        assert.equal(2, countAllPaarl('CJ 345 123, CK 345, CJ 123'));
-
-    });
-
 });
